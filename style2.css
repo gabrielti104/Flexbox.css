@@ -1,0 +1,38 @@
+.profile img{
+    height: 150px;
+    border-radius: 70px;
+}
+
+.profile{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 150px;
+}
+
+.nav{
+    list-style-type: none;
+    justify-content: center;
+    text-align: left;
+}
+
+body{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color:bisque;
+}
+
+.sidebar {
+    background-color:blueviolet ;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 120px;
+}
+
+.perfil{
+    display: flex;
+    justify-content: center;
+    color:black;
+}
